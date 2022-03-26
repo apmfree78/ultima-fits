@@ -1,3 +1,16 @@
 backend/node_modules
 frontend/node_modules
 backend/*.env
+node_modules/
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+*.env
+.keystone
+*.db
+backend/.keystone
+frontend/.next
