@@ -27,6 +27,9 @@ export default function Home() {
           Product: _allProductsMeta {
             count
           }
+          ProductImage: _allProductImagesMeta {
+            count
+          }
         }
       `}
     />
