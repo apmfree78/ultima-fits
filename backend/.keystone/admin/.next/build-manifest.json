@@ -14,6 +14,11 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
+    "/": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
@@ -24,15 +29,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/cart-items": [
+    "/signin": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/cart-items.js"
-    ],
-    "/cart-items/[id]": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/cart-items/[id].js"
+      "static/chunks/pages/signin.js"
     ]
   },
   "ampFirstPages": []
