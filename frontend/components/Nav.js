@@ -10,6 +10,7 @@ export default function Nav() {
   const { openCart } = useCart();
   return (
     <NavStyles>
+      {/* {process.env.NEXT_PUBLIC_STRIPE_KEY} */}
       <Link href="/products">Products</Link>
       {user && (
         <>
@@ -21,7 +22,8 @@ export default function Nav() {
             My Cart
             <CartCount
               count={user.cart.reduce(
-                (tally, cartItem) => tally + cartItem.quantity,
+                (tally, cartItem) =>
+                  tally + (cartItem.product ? cartItem.quantity : 0),
                 0
               )}
             />
