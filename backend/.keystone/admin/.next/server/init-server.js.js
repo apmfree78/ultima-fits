@@ -88,20 +88,23 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./");
+/******/ 	return __webpack_require__(__webpack_require__.s = "QBYc");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./":
-/*!***************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/AmitBoost/Desktop/Programming/Advanced-React/sick-fits/backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
-  \***************************************************************************************************************************************************************************************************************/
-/*! exports provided: default */
+/***/ "QBYc":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n\n    \n\n    /* harmony default export */ __webpack_exports__[\"default\"] = (function (ctx) {\n      return Promise.all([])\n    });\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL1VzZXJzL0FtaXRCb29zdC9EZXNrdG9wL1Byb2dyYW1taW5nL0FkdmFuY2VkLVJlYWN0L3NpY2stZml0cy9iYWNrZW5kL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/ZjgzYyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBR0EsSUFBbUI7QUFDbkI7QUFDQSxLQUFLIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/bWlkZGxld2FyZT1vbi1pbml0LXNlcnZlciEuLy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxuICAgIFxuXG4gICAgZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKGN0eCkge1xuICAgICAgcmV0dXJuIFByb21pc2UuYWxsKFtdKVxuICAgIH1cbiAgIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./\n");
+__webpack_require__.r(__webpack_exports__);
+
+    
+
+    /* harmony default export */ __webpack_exports__["default"] = (function (ctx) {
+      return Promise.all([])
+    });
+  
 
 /***/ })
 

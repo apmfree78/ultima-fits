@@ -25,6 +25,7 @@
     "graphql": "16.0.1",
     "graphql-tag": "^2.11.0",
     "graphql-upload": "^11.0.0",
+    "identity-obj-proxy": "^3.0.0",
     "lodash.debounce": "^4.0.8",
     "next": "^10.0.3",
     "next-with-apollo": "^5.1.1",
@@ -34,6 +35,8 @@
     "react-dom": "^17.0.1",
     "react-transition-group": "^4.4.1",
     "styled-components": "^5.2.1",
+    "test-library": "^1.0.0",
+    "testing-library": "^0.0.2",
     "waait": "^1.0.5"
   },
   "devDependencies": {
