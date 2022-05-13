@@ -88,23 +88,20 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "l87R");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server!./");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "l87R":
+/***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server!./":
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/AmitBoost/Desktop/Programming/Advanced-React/sick-fits/backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server ***!
+  \****************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-
-    
-
-    /* harmony default export */ __webpack_exports__["default"] = (function (ctx) {
-      return Promise.all([])
-    });
-  
+eval("__webpack_require__.r(__webpack_exports__);\n\n    \n\n    /* harmony default export */ __webpack_exports__[\"default\"] = (function (ctx) {\n      return Promise.all([])\n    });\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL1VzZXJzL0FtaXRCb29zdC9EZXNrdG9wL1Byb2dyYW1taW5nL0FkdmFuY2VkLVJlYWN0L3NpY2stZml0cy9iYWNrZW5kL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/MjEwNSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBR0EsSUFBbUI7QUFDbkI7QUFDQSxLQUFLIiwiZmlsZSI6Ii4uLy4uL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXBsdWdpbi1sb2FkZXIuanM/bWlkZGxld2FyZT1vbi1lcnJvci1zZXJ2ZXIhLi8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICBcblxuICAgIGV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIChjdHgpIHtcbiAgICAgIHJldHVybiBQcm9taXNlLmFsbChbXSlcbiAgICB9XG4gICJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server!./\n");
 
 /***/ })
 

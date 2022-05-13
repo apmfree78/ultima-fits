@@ -1,25 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/api/__keystone_api_build": "pages/api/__keystone_api_build.js",
-  "/cart-items/[id]": "pages/cart-items/[id].html",
-  "/cart-items": "pages/cart-items.html",
-  "/": "pages/index.html",
-  "/init": "pages/init.html",
-  "/no-access": "pages/no-access.html",
-  "/order-items/[id]": "pages/order-items/[id].html",
-  "/order-items": "pages/order-items.html",
-  "/orders/[id]": "pages/orders/[id].html",
-  "/orders": "pages/orders.html",
-  "/product-images/[id]": "pages/product-images/[id].html",
-  "/product-images": "pages/product-images.html",
-  "/products/[id]": "pages/products/[id].html",
-  "/products": "pages/products.html",
-  "/roles/[id]": "pages/roles/[id].html",
-  "/roles": "pages/roles.html",
-  "/signin": "pages/signin.html",
-  "/users/[id]": "pages/users/[id].html",
-  "/users": "pages/users.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/users": "pages/users.js"
 }
