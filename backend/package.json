@@ -2,7 +2,7 @@
   "name": "sick-fits-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "Amit Mehta",
   "license": "MIT",
   "scripts": {
     "start": "keystone-next start",
@@ -73,6 +73,5 @@
   "engines": {
     "node": "16.4.2",
     "npm": "8.5.0"
-  },
-  "repository": "https://github.com/wesbos/advanced-react"
+  }
 }
