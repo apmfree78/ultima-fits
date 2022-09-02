@@ -23,5 +23,5 @@ in.
 ## Apollo Cache for Fast Load Times
 
 Front end utilizes Apollo cache to reduce database calls. Cache is only
-refreshed when uses makes a change : add/edit/remove a reminder,
-login/logout,changes membership level, etc.
+refreshed when uses makes a change : add/remove item from cart,
+login/logout, makes a purchase, etc.
